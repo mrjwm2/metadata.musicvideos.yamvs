@@ -1,5 +1,5 @@
-v1.1.0 (2015-11-21) 
-RELEASE: Currently scrapes <artist>, <album>, <studio> (taken from Label), <title>, <runtime>, <year>, .
+v1.1.0 (2015-12-21) 
+RELEASE: Currently scrapes <artist>, <album>, <studio> (taken from Label), <title>, <runtime>, <year>, <thumb>, <plot>, <track>, <genre> .
 
 Album Art url not scraped. May be added at a later date.
 
